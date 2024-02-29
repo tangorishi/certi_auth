@@ -1,0 +1,1 @@
+export const CertificateNftContractAddress = "0x2F714BFa0ed74640387138e21B5f7C24ED85239e";
